@@ -1,1 +1,2 @@
-const dataAtual= new Date()
+const dataAtual= new Date();
+let dataNiver= prompt
